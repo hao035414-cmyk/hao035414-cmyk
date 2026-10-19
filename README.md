@@ -1,10 +1,10 @@
 <div align="center">
 
-# hao035414-cmyk
+# koma
 
 **Building AI agents and the tooling around them.**
 
-<sub>agent runtimes · MCP · developer tooling</sub>
+<sub>@hao035414-cmyk · agent runtimes · MCP · developer tooling</sub>
 
 </div>
 
@@ -36,7 +36,7 @@ Building in public. The first projects are in progress and will land here.
 
 <br>
 
-**正在构建 AI Agent 及其周边工具链。**
+**koma，正在构建 AI Agent 及其周边工具链。**
 
 #### 目前在做什么
 
