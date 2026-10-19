@@ -12,13 +12,9 @@
 
 ### Now
 
-Building in public. The first projects are in progress and will land here.
-
-| Area | Status |
+| Project | What it is |
 | --- | --- |
-| Agent runtime experiments | in progress |
-| MCP integrations | in progress |
-| Developer tooling | in progress |
+| **[NEON RUMBLE](https://github.com/hao035414-cmyk/neon-rumble)** | A dependency-free 2D fighting game in the browser — Canvas, ES modules, CPU opponent, local 2P. [▶ Play](https://hao035414-cmyk.github.io/neon-rumble/) |
 
 ### Focus
 
@@ -38,15 +34,11 @@ Building in public. The first projects are in progress and will land here.
 
 **koma，正在构建 AI Agent 及其周边工具链。**
 
-#### 目前在做什么
+#### 现在
 
-公开构建中。第一批项目还在开发，完成后会更新在这里。
-
-| 方向 | 状态 |
+| 项目 | 简介 |
 | --- | --- |
-| Agent 运行时实验 | 进行中 |
-| MCP 集成 | 进行中 |
-| 开发者工具 | 进行中 |
+| **[NEON RUMBLE](https://github.com/hao035414-cmyk/neon-rumble)** | 零依赖的浏览器 2D 格斗游戏：Canvas + ES modules，CPU 对手、本地双人。[▶ 试玩](https://hao035414-cmyk.github.io/neon-rumble/) |
 
 #### 关注点
 
